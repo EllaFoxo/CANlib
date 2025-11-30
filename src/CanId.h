@@ -9,7 +9,7 @@
 #define SRC_CAN_CANID_H_
 
 #include <cstdint>
-#include <CoreTypes.h>		// for CanAddress
+#include "CoreTypes.h"		// for CanAddress
 
 // CAN message types. This is a 13-bit field, so we can use numbers 0 to 8191. Low numbers have highest priority.
 enum class CanMessageType : uint16_t

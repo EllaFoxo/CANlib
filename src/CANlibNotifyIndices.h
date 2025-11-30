@@ -10,7 +10,7 @@
 #ifndef SRC_CANLIBNOTIFYINDICES_H_
 #define SRC_CANLIBNOTIFYINDICES_H_
 
-#include <CoreNotifyIndices.h>
+#include "CoreNotifyIndices.h"
 
 namespace NotifyIndices
 {

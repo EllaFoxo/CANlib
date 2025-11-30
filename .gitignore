@@ -47,3 +47,9 @@ SAM4S_RTOS/
 SAME70_nonRTOS/
 /RP2040_RTOS/
 /.clangd
+
+.idea
+subprojects/.wraplock
+subprojects/libfreertos
+subprojects/librrflibraries
+subprojects/libcanlib

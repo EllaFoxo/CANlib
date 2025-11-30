@@ -11,7 +11,7 @@
 #define SRC_RRF3COMMON_H_
 
 #include <cstdint>
-#include <CoreTypes.h>				// for PwmFrequency
+#include "CoreTypes.h"				// for PwmFrequency
 #include <General/NamedEnum.h>
 #include <General/StringRef.h>
 #include <General/SimpleMath.h>
